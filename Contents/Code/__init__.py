@@ -1,6 +1,6 @@
 ART = 'art-default.jpg'
 ICON = 'icon-default.jpg'
-NAME = 'Resonance104.4fm'
+NAME = 'Resonance 104.4 fm'
 STREAM_URL = 'http://radio.canstream.co.uk:8004/live.mp3'
 
 ####################################################################################################
