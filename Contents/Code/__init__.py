@@ -1,7 +1,7 @@
 ART = 'art-default.jpg'
 ICON = 'icon-default.jpg'
-NAME = 'Resonance 104.4 fm'
-STREAM_URL = 'http://radio.canstream.co.uk:8004/live.mp3'
+NAME = 'France Inter'
+STREAM_URL = 'http://direct.franceinter.fr/live/franceinter-midfi.mp3'
 
 ####################################################################################################
 def Start():
